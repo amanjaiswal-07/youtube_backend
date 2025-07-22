@@ -9,8 +9,8 @@ dotenv.config({
 
 //     // Configuration
 //     cloudinary.config({ 
-//         cloud_name: 'dykqnifx3', 
-//         api_key: '483815989142337', 
+//         cloud_name: '', 
+//         api_key: '', 
 //         api_secret: '<your_api_secret>' // Click 'View API Keys' above to copy your API secret
 //     });
     
